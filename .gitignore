@@ -1,0 +1,31 @@
+# Video outputs
+output_video.mp4
+*.mp4
+*.avi
+*.mov
+
+# Temporary assets
+temp_assets/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
